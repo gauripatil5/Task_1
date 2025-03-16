@@ -37,3 +37,5 @@ Download the project files or clone the repository.
 Open index.html in a web browser.
 Replace "YOUR_API_KEY" in script.js with a valid OpenWeatherMap API key.
 Select a city from the dropdown and click "Get Weather" to see live updates.
+
+"OUTPUT": ![Image](https://github.com/user-attachments/assets/f6fb940a-6424-452a-bd7c-412f1686b16d)
